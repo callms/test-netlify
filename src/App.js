@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>
           Version 2!
+          from PR and also after domain
         </p>
         <a
           className="App-link"
